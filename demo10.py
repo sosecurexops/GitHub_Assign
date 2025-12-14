@@ -1,1 +1,0 @@
-print("Reset soft Check")
