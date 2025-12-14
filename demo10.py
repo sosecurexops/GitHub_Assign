@@ -1,1 +1,1 @@
-print("Reset soft Check")
+print("Git pull check")
